@@ -1,0 +1,5 @@
+{
+    "title": "Test title",
+    "description": "<p>Test description</p>",
+    "images": ["project_images/testimg.jpg", "project_images/testimg2.png"]
+}
