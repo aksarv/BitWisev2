@@ -232,7 +232,7 @@ main h1 {
     width: 100%;
 }
 
-#content p, #contact-page p {
+#content p, #contact-page p, #project-page p {
     line-height: 1.6;
     text-align: justify;
     margin: 0 auto;
