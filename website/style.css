@@ -24,6 +24,8 @@ h1 {
 }
 
 .welcome h1 {
+    position: relative;
+    display: inline-block;
     z-index: 2;
 }
 
