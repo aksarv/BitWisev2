@@ -78,7 +78,7 @@ h1 {
 }
 
 .topnav a {
-    color: black;
+    color: white;
     width: 50px;
     padding: 14px 20px;
     text-decoration: none;
@@ -101,7 +101,7 @@ footer {
     bottom: 0;
     left: 0;
     background-color: var(--theme-color);
-    color: black;
+    color: white;
     padding: 20px;
     box-sizing: border-box;
     text-align: center;
@@ -125,7 +125,7 @@ footer p {
 .article {
     display: block;
     background-color: var(--theme-color);
-    border: 2px solid black;
+    border: 2px solid white;
     padding: 20px;
     text-align: center;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -140,7 +140,7 @@ footer p {
 }
 
 .article h2, .article p {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
