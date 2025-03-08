@@ -296,3 +296,54 @@ main h1 {
     max-width: 700px;
     word-spacing: 0.05em;
 }
+
+.sendEmail form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #111;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
+}
+
+.sendEmail label {
+    font-weight: bold;
+    color: white;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.sendEmail input, .sendEmail textarea {
+    width: 100%;
+    padding: 10px;
+    background-color: #222;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.sendEmail input:focus, .sendEmail textarea:focus {
+    border-color: #888;
+    outline: none;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.2);
+}
+
+.sendEmail button {
+    background-color: #444;
+    color: white;
+    border: none;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+.sendEmail button:hover {
+    background-color: #666;
+}
