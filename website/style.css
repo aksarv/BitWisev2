@@ -190,7 +190,7 @@ main h1 {
 }
 
 .project h2 {
-    color: black;
+    color: white;
     margin: 0;
     font-size: 1.5rem;
 }
@@ -198,7 +198,7 @@ main h1 {
 .project p {
     margin: 0;
     font-size: 1rem;
-    color: #555;
+    color: #f3f3f3;
 }
 
 .project img {
