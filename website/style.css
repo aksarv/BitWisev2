@@ -1,5 +1,5 @@
 :root {
-    --theme-color: #a5a5a5
+    --theme-color: white;
 }
 
 @font-face {
@@ -17,7 +17,7 @@
 body {
     font-family: "Metropolis", sans-serif;
     font-weight: 400;
-    color: white !important;
+    color: black !important;
     background-color: var(--theme-color) !important
 }
 
