@@ -3,6 +3,30 @@
 }
 
 @font-face {
+    font-family: 'Hind';
+    src: url('fonts/Hind/Hind-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Hind';
+    src: url('fonts/Hind/Hind-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('fonts/PlayfairDisplay/PlayfairDisplay-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('fonts/PlayfairDisplay/PlayfairDisplay-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
+
+@font-face {
     font-family: 'Metropolis';
     src: url('fonts/metropolis/Metropolis-Regular.otf') format('opentype');
     font-weight: 400;
@@ -15,14 +39,14 @@
 }
 
 body {
-    font-family: "Metropolis", sans-serif;
+    font-family: "Playfair Display", serif;
     font-weight: 400;
     color: white !important;
     background-color: var(--theme-color) !important
 }
 
 h1 {
-    font-family: 'Metropolis', sans-serif;
+    font-family: 'Hind', sans-serif;
     font-weight: 700;
     text-align: center;
     margin: 0;
