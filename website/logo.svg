@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M 237.089 223.88 C 237.089 219.811 233.822 216.522 229.78 216.522 C 225.737 216.522 222.47 219.811 222.47 223.88 L 222.47 275.388 C 222.47 279.458 225.737 282.745 229.78 282.745 C 233.822 282.745 237.089 279.458 237.089 275.388 L 237.089 223.88 Z M 204.084 244.253 C 207.191 241.655 207.601 237.01 205.02 233.883 C 202.44 230.755 197.826 230.342 194.719 232.94 C 182.659 243.058 174.962 258.325 174.962 275.388 C 174.962 305.855 199.516 330.573 229.78 330.573 C 260.044 330.573 284.598 305.855 284.598 275.388 C 284.598 258.325 276.877 243.058 264.817 232.94 C 261.711 230.342 257.097 230.779 254.516 233.883 C 251.935 236.987 252.369 241.655 255.453 244.253 C 264.338 251.68 269.957 262.879 269.957 275.388 C 269.957 297.738 251.958 315.857 229.757 315.857 C 207.556 315.857 189.558 297.738 189.558 275.388 C 189.558 262.879 195.199 251.68 204.061 244.253 L 204.084 244.253 Z" style=""/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="75.668" y="56.512"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="29.393" y="41.636"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="154.72" y="136.756"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="306.071" y="21.503"> </text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 158px; white-space: pre;" x="145.109" y="-3.361" transform="matrix(0.662383, 0, 0, 0.634511, 85.21946, 101.549713)"><tspan x="313.677" y="329.857" style="font-weight: 700; font-size: 158px; word-spacing: 0px;">W</tspan><tspan style="font-size: 158px; word-spacing: 0px;">   </tspan></text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="476.576" y="388.456"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="317.89" y="471.168"> </text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 158px; font-weight: 700; white-space: pre;" x="35.351" y="330.329"> </text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="144.088" y="466.922"> </text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 158px; font-weight: 700; white-space: pre;" transform="matrix(0.662383, 0, 0, 0.634511, -118.298203, 101.046356)" x="313.677" y="329.857">B</text>
+</svg>
