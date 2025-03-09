@@ -124,6 +124,12 @@ h3 {
     margin-left: auto;
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 footer {
     width: 100%;
     position: fixed;
