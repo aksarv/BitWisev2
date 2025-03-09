@@ -93,38 +93,29 @@ h3 {
 }
 
 .topnav {
-    margin: 0;
-    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     width: 100%;
     height: 40px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
     background-color: var(--theme-color);
-    box-sizing: border-box;
-    z-index: 1000;
-    box-shadow: 0 5px 5px rgba(255, 255, 255, 0.3);                                  
+    box-shadow: 0 5px 5px rgba(255, 255, 255, 0.3);
+    padding: 0 20px;
+    position: relative;
 }
 
 .topnav a {
     color: white;
-    width: 50px;
     padding: 14px 20px;
     text-decoration: none;
     text-align: center;
     display: block;
-    margin-right: 20px;
-}
-
-.topnav a:last-child {
-    margin-right: 0;
-}
-
-.topnav .about {
-    margin-left: auto;
 }
 
 .logo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
     display: flex;
     align-items: center;
     justify-content: center;
