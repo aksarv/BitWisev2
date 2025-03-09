@@ -1,5 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="271.5 297 700 700">
   <defs>
+    <style type="text/css">
+      @font-face {
+        font-family: "font-Minecraftia";
+        src: url("../fonts/minecraft-font/minecraft-font/MinecraftBold-nMK1.otf") format("opentype");
+      }
+    </style>
     <clipPath id="a">
       <path fill="none" d="M447.503 468.002h354.002v354.002H447.503z"/>
     </clipPath>
