@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="271.5 297 700 700">
+  <defs>
+    <clipPath id="a">
+      <path fill="none" d="M447.503 468.002h354.002v354.002H447.503z"/>
+    </clipPath>
+  </defs>
+  <g fill="none" stroke-miterlimit="10" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode:normal">
+    <g clip-path="url(#a)">
+      <path d="M646.625 490.125c0-12.238-9.887-22.125-22.125-22.125s-22.125 9.887-22.125 22.125V645c0 12.238 9.887 22.125 22.125 22.125s22.125-9.887 22.125-22.125zm-99.908 61.259c9.403-7.813 10.647-21.78 2.835-31.183s-21.78-10.647-31.183-2.835c-36.506 30.422-59.806 76.332-59.806 127.634 0 91.611 74.326 165.937 165.937 165.937S790.438 736.611 790.438 645c0-51.302-23.37-97.212-59.876-127.634-9.403-7.812-23.37-6.499-31.183 2.835s-6.499 23.37 2.835 31.183c26.896 22.332 43.904 56.004 43.904 93.616 0 67.205-54.482 121.688-121.687 121.688S502.743 712.205 502.743 645c0-37.612 17.078-71.284 43.905-93.616z" fill="#fff"/>
+    </g>
+    <text x="79" y="137.977" transform="scale(4.75 5.35417)" fill="#fff" font-family="font-Minecraftia" font-weight="normal" font-size="40" text-anchor="middle">B</text>
+    <text x="188.425" y="138.563" transform="scale(4.71675 5.33334)" fill="#fff" font-family="font-Minecraftia" font-weight="normal" font-size="40" text-anchor="middle">W</text>
+  </g>
+</svg>
