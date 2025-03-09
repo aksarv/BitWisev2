@@ -39,14 +39,14 @@
 }
 
 body {
-    font-family: "Playfair Display", serif;
+    font-family: "Hind", sans-serif;
     font-weight: 400;
     color: white !important;
     background-color: var(--theme-color) !important
 }
 
 h1 {
-    font-family: 'Hind', sans-serif;
+    font-family: 'Playfair Display', serif;
     font-weight: 700;
     text-align: center;
     margin: 0;
