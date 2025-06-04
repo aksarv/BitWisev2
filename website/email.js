@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLeaded", () => {
-  emailjs.init('dPeK7DrYFsRqEmkos');
+  emailjs.init('KEYGOESHERE');
   document.getElementById('emailForm').addEventListener('submit', function (e) {
     e.preventDefault();
-    emailjs.sendForm('service_vv06rdn', 'template_3mpe1yq', this)
+    emailjs.sendForm('SERVICE_ID', 'TEMPLATE_ID', this)
       .then(function (response) {
         alert('Message sent successfully');
         document.getElementById('emailForm').reset();
